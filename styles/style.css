@@ -232,24 +232,19 @@ html {
 
 /* footer section styles */
 
-.footer-container {
+footer {
     display: flex;
-    justify-content: space-between;
     margin-top: 50px;
     background-color: #eaedf0;
-    padding: 14px;
+    padding: 15px;
     background-size: cover;
-    
-    
-    
-    
     
 }
 .paragraph-footer {
     margin-left: 100px;
 }
 .icons {
-    margin-right: 100px;
+    margin-left: 50%;
     margin-top: 5px;
 }
 
