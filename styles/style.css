@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+    font-family: "Azeret Mono", monospace;
+    
+}
+/* This is banner section */
+
+.nav-section {
+    margin-left: 100px;
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    
+}
+.btn-1 {
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: white;
+    font-weight: 600;
+    margin-right: 70px; 
+    width: 200px;
+    height: 40px;
+    margin-top: 10PX;
+    color: rgb(94, 92, 92);
+}
+.a-1 {
+    text-decoration: none;
+    color: black;
+    }
+.banner-container {
+    background-image: url(/assets/Hero-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    
+}
+.head-1 {
+    font-size: 50px;
+    font-weight: 800;
+}
+.paragraph-1 {
+    color: #0D1321;
+}
+.btn-2 {
+    padding: 10px 15px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: black;
+    margin-top: 20px;
+    width: 220px;
+    height: 60px;
+
+}
+.a-2 {
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 600;
+}
+
+/* Main section styles */
+
+.main-section {
+    background-color: #f9fafd;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    padding: 130px;
+    border-radius: 30px;
+    
+}
+.headline-1 {
+    text-align: center;
+    margin-bottom: 100px;
+    
+}
+.head-2 {
+    font-size: 30px;
+    font-weight: 800;
+    
+}
+.paragraph-2{
+    color: rgb(94, 92, 92);
+}
+.layer-main {
+    display: flex;
+    
+    color: rgb(94, 92, 92);
+    margin-bottom: 50px;
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+}
+
+.btn-main {
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+    margin-top: 15px;
+    width: 170px;
+    background-color: white;
+    
+}
+.a-main{
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(94, 92, 92);
+}
+.layer-1-image {
+    margin-left: 200px;
+}
+.layer-2-image {
+    margin-left: 100px;
+}
+.yt-video-displaing {
+    text-align: center;
+}
+.inspiration-section {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.yt-video {
+    width: 1000px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    height: 500px;
+    margin-top: 40px;
+}
+.target-section {
+    margin-left: 250px;
+    margin-right: 230px;
+    width: auto;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.target-container{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.target-information {
+    display: flex;
+    border-radius: 10px;
+}
+.html {
+    background-color: #FFF0F5;
+    border-radius: 10px;
+    padding: 25px;
+    width: 250px;
+}
+.css {
+    background-color: #E0FFFF;
+    border-radius: 10px;
+    padding: 25px;
+    margin-left: 40px;
+    width: 250px;
+}
+.javascript {
+    border-radius: 10px;
+    padding: 25px;
+    margin-left: 40px;
+    width: 250px;
+    background-color: #f9f7f8;
+}
+.a-target {
+    color: black;
+    font-weight: 600;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.h2-target {
+    font-size: 30px;
+}
+.paragraph-target {
+    color: rgb(94, 92, 92);
+}
+.support-section {
+    text-align: center;
+    background-image: url('/assets/handshake.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 350px;
+    margin-left: 230px;
+    margin-right: 230px;
+    border-radius: 15px;
+    background-blend-mode: overlay;
+    background-color: #464748;
+    margin-top: 50px;
+}
+.support-section-content {
+    padding-top: 60px;
+    color: white;
+}
+.h2-support {
+    font-size: 30px;
+}
+.paragraph-support {
+    color: rgb(200, 194, 194);
+    font-size: 13px;
+}
+.input-content {
+    height: 25px;
+    width: 450px;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 8px;
+}
+.btn-support {
+    height: 43px;
+    width: 100px;   
+    border-radius: 5px;
+    padding: 8px;
+    background-color: white;
+    margin-top: 35px;
+}
+.a-support {
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    
+}
+/* footer section styles */
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    background-color: #eaedf0;
+    padding: 15px;
+    background-size: cover;
+    
+    
+    
+    
+}
+.paragraph-footer {
+    margin-left: 100px;
+}
+.icons {
+    margin-right: 100px;
+}
+
