@@ -9,9 +9,9 @@ html {
 .nav-section {
     margin-left: 100px;
     display: flex;
-    margin-top: 30px;
+    margin-top: 25px;
     justify-content: space-between;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
     
 }
 .btn-1 {
