@@ -226,6 +226,7 @@ html {
     font-weight: 600;
     
 }
+
 /* footer section styles */
 
 .footer-container {
@@ -233,7 +234,7 @@ html {
     justify-content: space-between;
     margin-top: 50px;
     background-color: #eaedf0;
-    padding: 15px;
+    padding: 14px;
     background-size: cover;
     
     
