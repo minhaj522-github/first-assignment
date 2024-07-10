@@ -114,6 +114,7 @@ html {
 }
 .layer-1-image {
     margin-left: 200px;
+    
 }
 .layer-2-image {
     margin-left: 100px;
@@ -137,7 +138,7 @@ html {
     margin-right: 230px;
     width: auto;
     margin-top: 30px;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
 }
 .target-container{
     text-align: center;
@@ -152,6 +153,7 @@ html {
     border-radius: 10px;
     padding: 25px;
     width: 250px;
+    height: 250px;
 }
 .css {
     background-color: #E0FFFF;
@@ -170,7 +172,7 @@ html {
 .a-target {
     color: black;
     font-weight: 600;
-    padding-top: 30px;
+    
     padding-bottom: 30px;
 }
 .h2-target {
@@ -178,6 +180,7 @@ html {
 }
 .paragraph-target {
     color: rgb(94, 92, 92);
+    margin-bottom: 40px;
 }
 .support-section {
     text-align: center;
@@ -236,6 +239,7 @@ html {
     background-color: #eaedf0;
     padding: 14px;
     background-size: cover;
+    
     
     
     
